@@ -1,0 +1,31 @@
+{
+  "storyTitle": "La Alhambra",
+  "language": "es",
+  "level": "A2",
+  "chapters": [
+    {
+      "id": "1",
+      "title": "Leo llega a la Alhambra",
+      "text": "Hoy hace mucho calor. Leo está en Granada, frente a la Alhambra. Es su primer día en España y está emocionado. Tiene una botella de agua en la mano y una mochila pequeña.\n\n—¡Qué grande es este lugar! —dice sorprendido.\nLeo mira la entrada. Hay muchos turistas, cámaras y guías con paraguas de colores. Sabe que tiene una visita guiada a las diez, pero no está seguro de dónde ir.\n\nCorre un poco, mira su reloj, y pregunta:\n—Perdón, ¿dónde está el grupo con la guía Marta?\nPero nadie lo escucha. Leo decide entrar solo.\n\nDentro, ve muros con inscripciones árabes, arcos decorados y fuentes con agua clara. Toma muchas fotos y se siente como en una película.",
+      "audio_url": "https://your-audio-link.com/la-alhambra-ch1.mp3"
+    },
+    {
+      "id": "2",
+      "title": "Leo se une al grupo equivocado",
+      "text": "Leo camina por un jardín interior. Ve un grupo de estudiantes con mochilas y cuadernos. Una profesora de unos cuarenta años lo mira.\n—¿Tú eres el guía nuevo? —pregunta.\nLeo duda unos segundos, pero luego sonríe:\n—Eh… sí, claro.\n\nLos estudiantes lo miran con curiosidad. La profesora le dice:\n—Bien, puedes continuar la explicación.\n\nLeo se pone nervioso. Mira un cartel cerca.\n—Aquí tenemos… el Patio de los Leones —dice, leyendo en voz baja. —Es muy famoso. Tiene una fuente con doce leones de mármol.\n\nTodos lo escuchan con atención. La profesora asiente con la cabeza. Leo se relaja un poco y sigue caminando con ellos.",
+      "audio_url": "https://your-audio-link.com/la-alhambra-ch2.mp3"
+    },
+    {
+      "id": "3",
+      "title": "Una visita educativa",
+      "text": "Leo camina junto al grupo. La profesora empieza a hablar de la historia del lugar.\n—La Alhambra fue construida por los nazaríes en el siglo XIII. Es un ejemplo de arquitectura islámica en España.\n\nLeo repite para los estudiantes:\n—Sí, arquitectura islámica. Muy interesante. Hay muchas decoraciones con mosaicos y caligrafía árabe.\n\nEl grupo llega al Salón de los Embajadores. La profesora explica que allí el sultán recibía a los visitantes importantes.\nLeo mira el techo de madera tallada. Es impresionante.\n\nUn estudiante le pregunta:\n—¿Cuántas habitaciones hay en total?\nLeo responde con sinceridad:\n—No lo sé… muchas. ¡Hay que seguir explorando para contar!",
+      "audio_url": "https://your-audio-link.com/la-alhambra-ch3.mp3"
+    },
+    {
+      "id": "4",
+      "title": "Fin del recorrido",
+      "text": "Después de una hora, el grupo termina la visita. Están en el Mirador de Daraxa, con vistas a los jardines y a la ciudad.\nLa profesora le dice a Leo:\n—Gracias por tu ayuda. Tienes talento para explicar.\nLeo se ríe:\n—Gracias, pero en realidad… soy un turista perdido.\n\nTodos se ríen. La profesora le da una tarjeta:\n—Pues si un día quieres ser guía de verdad, llámame.\n\nLeo sale del grupo y busca a su guía original. Lo encuentra cerca de la entrada.\n—¿Dónde estabas? —pregunta el guía.\n—En una aventura educativa —responde Leo con una sonrisa.\n\nEse día, aprende mucho más de lo que esperaba.",
+      "audio_url": "https://your-audio-link.com/la-alhambra-ch4.mp3"
+    }
+  ]
+}
